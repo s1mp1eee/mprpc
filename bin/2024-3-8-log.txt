@@ -1,0 +1,8 @@
+11:42:4 =>[error]first log message!
+11:42:4 =>[error]/home/admin/project/mprpc/example/callee/friendservice.cc:main:44
+11:42:4 =>[info]service_name
+11:42:4 =>[info]method_name
+11:42:42 =>[error]first log message!
+11:42:42 =>[error]/home/admin/project/mprpc/example/callee/friendservice.cc:main:44
+11:42:42 =>[info]service_name
+11:42:42 =>[info]method_name
